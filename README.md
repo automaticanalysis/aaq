@@ -1,2 +1,2 @@
-# aa-template
-Automatic Analysis template repository
+# aaq
+Automatic Analysis Queuing Engine
